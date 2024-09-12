@@ -1,0 +1,8 @@
+## Interface: 110000 
+## Title: CheckPvPLink
+## Notes: Generates a Check-PvP link for the target player.
+## Author: Christian Lehr
+## Version: 1.6
+## IconTexture: Interface\AddOns\CheckPvPLink\icon
+
+CheckPvPLink.lua
